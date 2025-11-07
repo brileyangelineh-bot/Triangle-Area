@@ -1,1 +1,13 @@
+# Simple script to calculate the area of a rectangle with preset values
 
+# Assign actual values
+length = 8.5   # length in units
+width = 4.2    # width in units
+
+# Calculate the area
+area = length * width  # arithmetic operator *
+
+# Print the result
+print("Length:", length)
+print("Width:", width)
+print("The area of the rectangle is:", area)
